@@ -1,0 +1,7 @@
+MANIFEST.in
+README.md
+setup.py
+mergefast.egg-info/PKG-INFO
+mergefast.egg-info/SOURCES.txt
+mergefast.egg-info/dependency_links.txt
+mergefast.egg-info/top_level.txt

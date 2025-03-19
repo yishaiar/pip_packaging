@@ -1,0 +1,9 @@
+# Include all notebooks
+include notebooks/*.ipynb
+
+# Include the README and LICENSE
+include README.md
+include LICENSE
+
+# Include Python files from the src directory
+recursive-include src/example_package *.py

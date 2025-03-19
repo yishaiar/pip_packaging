@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include src/example_package_YOUR_USERNAME_HERE *
+recursive-include notebooks *
+recursive-include tests *

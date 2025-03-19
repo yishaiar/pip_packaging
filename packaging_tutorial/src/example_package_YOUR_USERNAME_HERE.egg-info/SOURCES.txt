@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+notebooks/demo.ipynb
+src/example_package_YOUR_USERNAME_HERE/.DS_Store
+src/example_package_YOUR_USERNAME_HERE/__init__.py.py
+src/example_package_YOUR_USERNAME_HERE/my_classes.py
+src/example_package_YOUR_USERNAME_HERE/my_functions.py
+src/example_package_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+src/example_package_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/top_level.txt
